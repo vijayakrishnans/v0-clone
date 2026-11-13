@@ -27,10 +27,9 @@ read first, how a change lands, and what not to touch.
 ## Live deployment
 
 <!-- 02-docs:begin -->
-Not recorded yet. The bootstrap's last phase writes the live URLs, the
-workspace and the secrets the product uses into
-[ai/context/deployment.md](ai/context/deployment.md); how the product deploys
-and how to operate it is in
+This product is **live**. Verified URLs, identity and the secrets it uses are
+recorded in [ai/context/deployment.md](ai/context/deployment.md) (re-rendered
+by the `02-docs` phase); how it deploys and how to operate it:
 [ai/context/operations.md](ai/context/operations.md).
 <!-- 02-docs:end -->
 
